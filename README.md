@@ -6,10 +6,12 @@
 <p align="center">
 𓂃⠀ ⠀ ⠀  ⠀ℌ𝔢𝔩𝔢𝔫𝔞 b̼y̼ 𝘔𝘺 𝘊𝘩𝘦𝘮𝘪𝘤𝘢𝘭 𝘙𝘰𝘮𝘢𝘯𝘤𝘦 ⠀ ⠀ ⠀⊹ 
 </p>
+
+<br>
 <br>
 
- <p align="center">
+<p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tckfmsmy7m3qsgkook6hwjqqne&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tckfmsmy7m3qsgkook6hwjqqne&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=f2e587&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tckfmsmy7m3qsgkook6hwjqqne&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false">
   </a>
 </p>
