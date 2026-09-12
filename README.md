@@ -7,7 +7,7 @@
 <table border="0" style="border: none;">
   <tr>
     <td width="50%" valign="middle" style="border: none;">
-      <img width="500" height="500" src="https://github.com/user-attachments/assets/6c4997a6-67d5-44f2-a492-3914999a7a96"/>
+      <img width="400" height="400" src="https://github.com/user-attachments/assets/6c4997a6-67d5-44f2-a492-3914999a7a96"/>
     </td>
     <td width="50%" valign="middle" style="border: none;" align="center">
         <img width="2048" height="123" src="https://github.com/user-attachments/assets/359337f3-6efe-4f38-802d-450baa56a452"/>
